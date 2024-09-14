@@ -1,4 +1,5 @@
 palabra = imput("que palabra quieres saber para que te diga: ")
+
 meme_dict = ("cringe";"pena ajena", 
   "gg" : "god game",
   "npc": "no playable character",
